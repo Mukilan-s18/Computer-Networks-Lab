@@ -1,0 +1,4 @@
+Server: Connection accepted from ('127.0.0.1', 51485)
+Server: Received message - Hello Transport Layer!
+Client: Sent message - Hello Transport Layer!
+Client: Received response - Echo: Hello Transport Layer!
