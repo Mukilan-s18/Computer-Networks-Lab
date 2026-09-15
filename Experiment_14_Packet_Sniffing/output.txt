@@ -1,0 +1,5 @@
+Starting packet sniffer...
+Captured Packet: Source IP: 192.168.1.10 -> Destination IP: 8.8.8.8 | Protocol: TCP
+Captured Packet: Source IP: 10.0.0.5 -> Destination IP: 10.0.0.255 | Protocol: UDP
+Captured Packet: Source IP: 192.168.1.10 -> Destination IP: 1.1.1.1 | Protocol: ICMP
+Sniffer stopped after capturing 3 packets.
